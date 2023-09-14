@@ -2,7 +2,7 @@
 
     @font-face {
         font-family: 'led_dot-matrix';
-        src: url('/led_dot-matrix-webfont.woff2') format('woff2'),
+        src: url('https://github.com/Utsav2505/Tic_Tac_Toe_Game/blob/aee08b6c28a07e6d6aa3e193fcc967e41d2f13ab/led_dot-matrix-webfont.woff') format('woff2'),
             url('/led_dot-matrix-webfont.woff') format('woff');
         font-weight: normal;
         font-style: normal;
